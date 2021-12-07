@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 '''
 Implements the decorator content log
 '''
