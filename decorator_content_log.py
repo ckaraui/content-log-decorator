@@ -80,7 +80,3 @@ def function_to_debug(a, b, c):
     return result
 
 function_to_debug(a=10, b=5, c=2)
-
-
-
-
